@@ -72,6 +72,12 @@ An end-to-end deep learning framework designed to detect deceptive behavior by a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashab-Uddin&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="97%" alt="GitHub Streak" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashab-Uddin&theme=react-dark&hide_border=true&area=true" width="97%" alt="Activity Graph" />
+</div>
+
 ---
 
 <p align="center">
